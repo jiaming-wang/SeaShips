@@ -1,5 +1,17 @@
 # SeaShips
+Seaships: A large-scale precisely annotated dataset for ship detection
 
+
+# Examples of Raw Samples
+
+
+# Download Datasets
+Download link: [Baidu](https://pan.baidu.com/s/1p3cWGB-CrpExpdbMGxPs2g) Password: j3aq
+
+Download link: [Url](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip)
+
+
+# Reference
 
 If you find this work useful, please consider citing it.
 ```
