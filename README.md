@@ -10,8 +10,23 @@ Contact: Jiaming Wang, Email: wjmecho@whu.edu.cn;  Zhenfeng Shao, Email: shaozhe
 
 
 ![image](/fig/fig1.png)
-----------
+
 Image 1. Example images of six ship types.
+
+----------
+
+
+![image](/fig/fig2.png)
+
+Image 2. Three different scales when the camera is looking side the sea.
+
+----------
+
+![image](/fig/fig3.png)
+
+Image 3. Some backgrounds in the dataset.
+
+----------
 
 Table 1. Number of images of each ship category.  
 |Categories|Images|Percentage|
@@ -23,6 +38,9 @@ Table 1. Number of images of each ship category.
 |Fishing boat| 5652 | 0.1797|
 |Passenger ship| 3171 | 0.1008|
 |Mixed type| 3440 | 0.1094|
+----------
+
+
 
 # Download Datasets
 Download link: [Baidu](https://pan.baidu.com/s/1p3cWGB-CrpExpdbMGxPs2g) Password: j3aq
