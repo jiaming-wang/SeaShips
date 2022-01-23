@@ -1,6 +1,10 @@
-# SeaShips
-Seaships: A large-scale precisely annotated dataset for ship detection
+# Seaships: A large-scale precisely annotated dataset for ship detection
 
+We introduce a new large-scale dataset of ships, called SeaShips, which is designed for training and evaluating ship object detection algorithms. The dataset currently consists of 31 455 images and covers six common ship types (ore carrier, bulk cargo carrier, general cargo ship, container ship, fishing boat, and passenger ship). All of the images are from about 10 080 real-world video segments, which are acquired by the monitoring cameras in a deployed coastline video surveillance system. They are carefully selected to mostly cover all possible imaging variations, for example, different scales, hull parts, illumination, viewpoints, backgrounds, and occlusions. All images are annotated with ship-type labels and high-precision bounding boxes.
+
+Sponsor: The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University
+
+Contact: Jiaming Wang, Email: wjmecho@whu.edu.cn;  Zhenfeng Shao, Email: shaozhenfeng@whu.edu.cn;  
 
 # Examples of Raw Samples
 
