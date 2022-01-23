@@ -9,6 +9,21 @@ Contact: Jiaming Wang, Email: wjmecho@whu.edu.cn;  Zhenfeng Shao, Email: shaozhe
 # Examples of Raw Samples
 
 
+![image](/fig/fig1.png)
+----------
+Image 1. Example images of six ship types.
+
+Table 1. Number of images of each ship category.  
+|Categories|Images|Percentage|
+|:---:|:---:|:---:|
+|Ore carries| 5126 | 0.1630|
+|Bulk cargo carries| 5067 | 0.1610|
+|Container ship| 3657 | 0.1163|
+|General cargo ship| 5342 | 0.1698|
+|Fishing boat| 5652 | 0.1797|
+|Passenger ship| 3171 | 0.1008|
+|Mixed type| 3440 | 0.1094|
+
 # Download Datasets
 Download link: [Baidu](https://pan.baidu.com/s/1p3cWGB-CrpExpdbMGxPs2g) Password: j3aq
 
