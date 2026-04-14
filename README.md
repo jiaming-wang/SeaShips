@@ -44,7 +44,7 @@ Table 1. Number of images of each ship category.
 
 # Download Datasets
 
-Download link: [Baidu]([https://pan.baidu.com/s/19-v0MWCQPI3mIsmFppzxbA](https://pan.baidu.com/s/1iQ-JG-4JhyBkdUFwIclprg?pwd=986Z)) 
+Download link: [Baidu](https://pan.baidu.com/s/19-v0MWCQPI3mIsmFppzxbA](https://pan.baidu.com/s/1iQ-JG-4JhyBkdUFwIclprg?pwd=986Z)
 
 Download link: [Url](http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip)
 
